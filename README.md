@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**renatomateusx/renatomateusx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[EN]
+I am 33 years old
+I work with FrontEnd and BackEnd
+Enthusiast of TypeScript and functional programming
+I want to collaborate with world to helping create new technology
+I NEED to help change the world
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[PT-BR]
+Eu tenho 33 anos.
+Trabalho com Front End e Back End
+Entusiasta de TypeScript e Programação funcional
+Quero colaborar com o mundo ajudando a criar novas tecnologias
+I PRECISO ajudar a mudar o mundo.
