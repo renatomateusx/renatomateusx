@@ -17,7 +17,7 @@ Eu tenho 33 anos. <br/>
 Trabalho com Front End e Back End. <br/>
 Entusiasta de TypeScript e Programação funcional. <br/>
 Quero colaborar com o mundo ajudando a criar novas tecnologias. <br/>
-I PRECISO ajudar a mudar o mundo! <br/>
+Eu PRECISO ajudar a mudar o mundo! <br/>
 
 Quer falar comigo diretamente?
 <a href="https://api.whatsapp.com/send?phone=5571991306561&text=E%20a%C3%AD%20Renato.%20Cara.%20Adorei%20seu%20curr%C3%ADculo!%20Podemos%20conversar%3F" target="_blank">Clica AQUI</a>
