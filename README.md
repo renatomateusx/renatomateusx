@@ -10,6 +10,8 @@ I NEED to help change the world! <br/>
 Do you wanna talk with me directly?
 <a href= "https://api.whatsapp.com/send?phone=5571991306561&text=Hi%20Renato.%20Dude!%20I%20was%20seeing%20your%20resume%20and%20i%20was%20love%20it!%20Can%20we%20talk%3F" target="_blank">Click HERE</a>
 
+### E aí! 👋
+
 [PT-BR] <br/>
 Eu tenho 33 anos. <br/>
 Trabalho com Front End e Back End. <br/>
