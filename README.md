@@ -3,7 +3,8 @@
 [EN] <br/>
 I am 33 years old. <br/>
 I work with FrontEnd and BackEnd. <br/>
-For backend i work with Java/Kotlin and spring boot <br/>
+For BackEnd i work with Java/Kotlin and spring boot <br/>
+For FrondEnd i work with React, ReactNative and anything which has javascript/typescript
 Enthusiast of TypeScript and functional programming. <br/>
 I want to collaborate with world to helping create new technology. <br/>
 I NEED to help change the world! <br/>
@@ -18,6 +19,7 @@ Do you wanna talk with me directly?
 Eu tenho 33 anos. <br/>
 Trabalho com Front End e Back End. <br/>
 Para back-end, trabalho com Java / Kotlin e spring boot <br/>
+Para front-end eu trabalho com react, react native e qualquer coisa que tenha javascript/typescript
 Entusiasta de TypeScript e Programação funcional. <br/>
 Quero colaborar com o mundo ajudando a criar novas tecnologias. <br/>
 Eu PRECISO ajudar a mudar o mundo! <br/>
