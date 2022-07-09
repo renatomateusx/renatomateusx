@@ -24,7 +24,7 @@ Do you wanna talk with me directly?
 <a href="https://apps.apple.com/br/app/btg-pactual-banking/id1467956990?l=en" target="_blank">BTG Banking App<a> <br/>
 <a href="https://apps.apple.com/br/app/sac-digital/id1400971098" target="_blank">Sac Digital App<a> <br/>
 
-
+###########################################
 
 ### E aí! 👋
 
@@ -40,3 +40,14 @@ Eu PRECISO ajudar a mudar o mundo! <br/>
 
 Quer falar comigo diretamente?
 <a href="https://api.whatsapp.com/send?phone=5571991306561&text=E%20a%C3%AD%20Renato.%20Cara.%20Adorei%20seu%20curr%C3%ADculo!%20Podemos%20conversar%3F" target="_blank">Clica AQUI</a>
+  
+### Projetos em que trabalhei <br/>
+<a href="https://apps.apple.com/us/app/zytara-digital-banking/id1552031706" target="_blank">Zytara Banking App<a> <br/>
+<a href="https://apps.apple.com/us/app/touch-of-modern/id567647280" target="_blank">Touch of Modern App<a> <br/>
+<a href="https://apps.apple.com/br/app/uber-conta/id1550784531" target="_blank"> Uber Banking App<br/> 
+<a href="https://apps.apple.com/br/app/digio-seu-cartão-de-crédito/id1128793569" target="_blank">Digio Banking App<a> <br/>
+<a href="https://apps.apple.com/pt/app/vr-e-você/id667577139" target="_blank">VR e VOCÊ App<a> <br/>
+<a href="https://apps.apple.com/br/app/serasa-consulta-cpf-e-score/id1102452668" target="_blank">Serasa Experian App<a> <br/>
+<a href="https://apps.apple.com/br/app/btg-pactual-banking/id1467956990?l=en" target="_blank">Unicred Banking App<a> <br/>
+<a href="https://apps.apple.com/br/app/btg-pactual-banking/id1467956990?l=en" target="_blank">BTG Banking App<a> <br/>
+<a href="https://apps.apple.com/br/app/sac-digital/id1400971098" target="_blank">Sac Digital App<a> <br/>
