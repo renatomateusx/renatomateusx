@@ -23,6 +23,7 @@ Do you wanna talk with me directly?
 <a href="https://apps.apple.com/br/app/btg-pactual-banking/id1467956990?l=en" target="_blank">Unicred Banking App<a> <br/>
 <a href="https://apps.apple.com/br/app/btg-pactual-banking/id1467956990?l=en" target="_blank">BTG Banking App<a> <br/>
 <a href="https://apps.apple.com/br/app/sac-digital/id1400971098" target="_blank">Sac Digital App<a> <br/>
+<a href="https://apps.apple.com/th/app/loja-swift/id1034589272" target="_blank">Loja Swift Mercado da Carne</a>
 
 ###########################################
 
@@ -51,3 +52,4 @@ Quer falar comigo diretamente?
 <a href="https://apps.apple.com/br/app/btg-pactual-banking/id1467956990?l=en" target="_blank">Unicred Banking App<a> <br/>
 <a href="https://apps.apple.com/br/app/btg-pactual-banking/id1467956990?l=en" target="_blank">BTG Banking App<a> <br/>
 <a href="https://apps.apple.com/br/app/sac-digital/id1400971098" target="_blank">Sac Digital App<a> <br/>
+<a href="https://apps.apple.com/th/app/loja-swift/id1034589272" target="_blank">Loja Swift Mercado da Carne</a>
