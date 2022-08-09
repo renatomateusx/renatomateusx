@@ -50,7 +50,7 @@ Quer falar comigo diretamente?
 <a href="https://apps.apple.com/br/app/uber-conta/id1550784531" target="_blank"> Uber Banking App<br/> 
 <a href="https://apps.apple.com/br/app/digio-seu-cartão-de-crédito/id1128793569" target="_blank">Digio Banking App<a> <br/>
 <a href="https://apps.apple.com/pt/app/vr-e-você/id667577139" target="_blank">VR e VOCÊ App<a> <br/>
-<a href="https://apps.apple.com/br/app/serasa-consulta-cpf-e-score/id1102452668" target="_blank">Serasa Experian App<a> <br/>
+<a href="https://apps.apple.com/br/app/serasa-consulta-cpf-e-score/id1102452668" target="_blank" style="display:none;">Serasa Experian App<a> <br/>
 <a href="https://apps.apple.com/br/app/btg-pactual-banking/id1467956990?l=en" target="_blank">Unicred Banking App<a> <br/>
 <a href="https://apps.apple.com/br/app/btg-pactual-banking/id1467956990?l=en" target="_blank">BTG Banking App<a> <br/>
 <a href="https://apps.apple.com/br/app/sac-digital/id1400971098" target="_blank">Sac Digital App<a> <br/>
