@@ -7,7 +7,7 @@ For BackEnd I work with Rust, and secondary Java/Kotlin and spring boot, NodeJS 
 For FrondEnd i work with React, ReactNative and anything which has javascript/typescript<br/>
 Enthusiast of TypeScript and functional programming. <br/>
 I want to collaborate with world to helping create new technology. <br/>
-I NEED to help change the world! <br/>
+I NEED to help to change the World! <br/>
 
 
 Do you wanna talk with me directly?
