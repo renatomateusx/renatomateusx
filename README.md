@@ -14,6 +14,7 @@ Do you wanna talk with me directly?
 <a href= "https://api.whatsapp.com/send?phone=5571991306561&text=Hi%20Renato.%20Dude!%20I%20was%20seeing%20your%20resume%20and%20i%20was%20love%20it!%20Can%20we%20talk%3F" target="_blank">Click HERE</a>
 
 ### Projects I have worked on: <br/>
+
 <a href="https://apps.apple.com/us/app/zytara-digital-banking/id1552031706" target="_blank">Zytara Banking App<a> <br/>
 <a href="https://apps.apple.com/us/app/touch-of-modern/id567647280" target="_blank">Touch of Modern App<a> <br/>
 <a href="https://apps.apple.com/br/app/uber-conta/id1550784531" target="_blank"> Uber Banking App<br/> 
@@ -24,6 +25,8 @@ Do you wanna talk with me directly?
 <a href="https://apps.apple.com/br/app/sac-digital/id1400971098" target="_blank">Sac Digital App<a> <br/>
 <a href="https://apps.apple.com/th/app/loja-swift/id1034589272" target="_blank">Loja Swift Mercado da Carne</a> <br/>
 <a href="https://apps.apple.com/br/app/lojas-renner-comprar-roupas/id567763947" target="_blank">Renner e-commerce</a>
+<a href="[https://apps.apple.com/us/app/zytara-digital-banking/id1552031706](https://apps.apple.com/us/app/bergdorf-goodman/id1484296650)" target="_blank">Farfetch App<a> <br/>
+<a href="[[https://apps.apple.com/us/app/zytara-digital-banking/id1552031706](https://apps.apple.com/us/app/bergdorf-goodman/id1484296650)](https://apps.apple.com/us/app/bergdorf-goodman/id1484296650)" target="_blank">Bergdorf Goodman<a> <br/>
 
 
 ###########################################
@@ -54,3 +57,5 @@ Quer falar comigo diretamente?
 <a href="https://apps.apple.com/br/app/sac-digital/id1400971098" target="_blank">Sac Digital App<a> <br/>
 <a href="https://apps.apple.com/th/app/loja-swift/id1034589272" target="_blank">Loja Swift Mercado da Carne</a> <br/>
 <a href="https://apps.apple.com/br/app/lojas-renner-comprar-roupas/id567763947" target="_blank">Renner e-commerce</a>
+<a href="[https://apps.apple.com/us/app/zytara-digital-banking/id1552031706](https://apps.apple.com/us/app/bergdorf-goodman/id1484296650)" target="_blank">Farfetch App<a> <br/>
+<a href="[[https://apps.apple.com/us/app/zytara-digital-banking/id1552031706](https://apps.apple.com/us/app/bergdorf-goodman/id1484296650)](https://apps.apple.com/us/app/bergdorf-goodman/id1484296650)" target="_blank">Bergdorf Goodman<a> <br/>
