@@ -44,7 +44,7 @@ Para back-end, trabalho com Rust, Java / Kotlin e spring boot, NodeJS and .NETCo
 Para front-end eu trabalho com react, react native e qualquer coisa que tenha javascript/typescript<br/>
 Entusiasta de TypeScript e Programação funcional. <br/>
 Quero colaborar com o mundo ajudando a criar novas tecnologias. <br/>
-Eu PRECISO ajudar a mudar o mundo! <br/>
+Eu PRECISO ajudar a mudar o Mundo! <br/>
 
 
 Quer falar comigo diretamente?
