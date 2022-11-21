@@ -25,8 +25,8 @@ Do you wanna talk with me directly?
 <a href="https://apps.apple.com/br/app/sac-digital/id1400971098" target="_blank">Sac Digital App<a> <br/>
 <a href="https://apps.apple.com/th/app/loja-swift/id1034589272" target="_blank">Loja Swift Mercado da Carne</a> <br/>
 <a href="https://apps.apple.com/br/app/lojas-renner-comprar-roupas/id567763947" target="_blank">Renner e-commerce</a>
-<a href="[https://apps.apple.com/us/app/zytara-digital-banking/id1552031706](https://apps.apple.com/us/app/bergdorf-goodman/id1484296650)" target="_blank">Farfetch App<a> <br/>
-<a href="[[https://apps.apple.com/us/app/zytara-digital-banking/id1552031706](https://apps.apple.com/us/app/bergdorf-goodman/id1484296650)](https://apps.apple.com/us/app/bergdorf-goodman/id1484296650)" target="_blank">Bergdorf Goodman<a> <br/>
+<a href="https://apps.apple.com/us/app/bergdorf-goodman/id1484296650" target="_blank">Farfetch App<a> <br/>
+<a href="https://apps.apple.com/us/app/bergdorf-goodman/id1484296650" target="_blank">Bergdorf Goodman App<a> <br/>
 
 
 ###########################################
@@ -57,5 +57,5 @@ Quer falar comigo diretamente?
 <a href="https://apps.apple.com/br/app/sac-digital/id1400971098" target="_blank">Sac Digital App<a> <br/>
 <a href="https://apps.apple.com/th/app/loja-swift/id1034589272" target="_blank">Loja Swift Mercado da Carne</a> <br/>
 <a href="https://apps.apple.com/br/app/lojas-renner-comprar-roupas/id567763947" target="_blank">Renner e-commerce</a>
-<a href="[https://apps.apple.com/us/app/zytara-digital-banking/id1552031706](https://apps.apple.com/us/app/bergdorf-goodman/id1484296650)" target="_blank">Farfetch App<a> <br/>
-<a href="[[https://apps.apple.com/us/app/zytara-digital-banking/id1552031706](https://apps.apple.com/us/app/bergdorf-goodman/id1484296650)](https://apps.apple.com/us/app/bergdorf-goodman/id1484296650)" target="_blank">Bergdorf Goodman<a> <br/>
+<a href="https://apps.apple.com/us/app/bergdorf-goodman/id1484296650" target="_blank">Farfetch App<a> <br/>
+<a href="https://apps.apple.com/us/app/bergdorf-goodman/id1484296650" target="_blank">Bergdorf Goodman App<a> <br/>
