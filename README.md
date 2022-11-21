@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [EN] <br/>
-I am 35 years old. <br/>
+I am 36 years old. <br/>
 I work with Mobile Development - iOS Developer- Objective-c | Swift. <br/>
 For BackEnd I work with Rust, and secondary Java/Kotlin and spring boot, NodeJS and .NETCore <br/>
 For FrondEnd i work with React, ReactNative and anything which has javascript/typescript<br/>
@@ -38,7 +38,7 @@ Do you wanna talk with me directly?
 ### E aí! 👋
 
 [PT-BR] <br/>
-Eu tenho 35 anos. <br/>
+Eu tenho 36 anos. <br/>
 Trabalho com Desenvolvimento Móvel - iOS Developer- Objective-c | Swift. <br/>
 Para back-end, trabalho com Rust, Java / Kotlin e spring boot, NodeJS and .NETCore <br/>
 Para front-end eu trabalho com react, react native e qualquer coisa que tenha javascript/typescript<br/>
