@@ -3,6 +3,7 @@
 [EN] <br/>
 I am 35 years old. <br/>
 I work with Mobile Development - iOS Developer- Objective-c | Swift. <br/>
+I also work with Rust development. <br/>
 For BackEnd i work with Java/Kotlin and spring boot, NodeJS and .NETCore <br/>
 For FrondEnd i work with React, ReactNative and anything which has javascript/typescript<br/>
 Enthusiast of TypeScript and functional programming. <br/>
@@ -33,6 +34,7 @@ Do you wanna talk with me directly?
 [PT-BR] <br/>
 Eu tenho 35 anos. <br/>
 Trabalho com Desenvolvimento Móvel - iOS Developer- Objective-c | Swift. <br/>
+Eu também atuo com Desenvolvimento em Rust. <br/>
 Para back-end, trabalho com Java / Kotlin e spring boot, NodeJS and .NETCore <br/>
 Para front-end eu trabalho com react, react native e qualquer coisa que tenha javascript/typescript<br/>
 Entusiasta de TypeScript e Programação funcional. <br/>
