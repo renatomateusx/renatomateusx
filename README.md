@@ -24,7 +24,7 @@ Do you wanna talk with me directly?
 <a href="https://apps.apple.com/br/app/uber-conta/id1550784531" target="_blank"> Uber Banking App</a><br/> 
 <a href="https://apps.apple.com/br/app/digio-seu-cartão-de-crédito/id1128793569" target="_blank">Digio Banking App</a> <br/>
 <a href="https://apps.apple.com/pt/app/vr-e-você/id667577139" target="_blank">VR e VOCÊ App</a> <br/>
-<a href="https://apps.apple.com/br/app/btg-pactual-banking/id1467956990?l=en" target="_blank">Unicred Banking App</a> <br/>
+<a href="https://apps.apple.com/br/app/unicred-mobile/id955807456" target="_blank">Unicred Banking App</a> <br/>
 <a href="https://apps.apple.com/br/app/btg-pactual-banking/id1467956990?l=en" target="_blank">BTG Banking App</a> <br/>
 <a href="https://apps.apple.com/br/app/sac-digital/id1400971098" target="_blank">Sac Digital App</a> <br/>
 <a href="https://apps.apple.com/th/app/loja-swift/id1034589272" target="_blank">Loja Swift Mercado da Carne</a> <br/>
@@ -61,7 +61,7 @@ Quer falar comigo diretamente?
 <a href="https://apps.apple.com/br/app/uber-conta/id1550784531" target="_blank"> Uber Banking App</a><br/> 
 <a href="https://apps.apple.com/br/app/digio-seu-cartão-de-crédito/id1128793569" target="_blank">Digio Banking App</a> <br/>
 <a href="https://apps.apple.com/pt/app/vr-e-você/id667577139" target="_blank">VR e VOCÊ App</a> <br/>
-<a href="https://apps.apple.com/br/app/btg-pactual-banking/id1467956990?l=en" target="_blank">Unicred Banking App</a> <br/>
+<a href="https://apps.apple.com/br/app/unicred-mobile/id955807456" target="_blank">Unicred Banking App</a> <br/>
 <a href="https://apps.apple.com/br/app/btg-pactual-banking/id1467956990?l=en" target="_blank">BTG Banking App</a> <br/>
 <a href="https://apps.apple.com/br/app/sac-digital/id1400971098" target="_blank">Sac Digital App</a> <br/>
 <a href="https://apps.apple.com/th/app/loja-swift/id1034589272" target="_blank">Loja Swift Mercado da Carne</a> <br/>
