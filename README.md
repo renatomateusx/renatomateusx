@@ -31,7 +31,6 @@ Do you wanna talk with me directly?
 <a href="https://apps.apple.com/br/app/lojas-renner-comprar-roupas/id567763947" target="_blank">Renner e-commerce</a> <br/>
 <a href="https://apps.apple.com/us/app/farfetch-designer-shopping/id906698760" target="_blank">Farfetch App<a> <br/>
 <a href="https://apps.apple.com/us/app/bergdorf-goodman/id1484296650" target="_blank">Bergdorf Goodman App<a> <br/>
-<a href="[https://apps.apple.com/us/app/bergdorf-goodman/id1484296650](https://apps.apple.com/us/app/ninjaone-mobile/id1416138607)" target="_blank">NinjaOne App<a> <br/>
 
 
 
@@ -70,4 +69,3 @@ Quer falar comigo diretamente?
 <a href="https://apps.apple.com/br/app/lojas-renner-comprar-roupas/id567763947" target="_blank">Renner e-commerce</a> <br/>
 <a href="https://apps.apple.com/us/app/farfetch-designer-shopping/id906698760" target="_blank">Farfetch App<a> <br/>
 <a href="https://apps.apple.com/us/app/bergdorf-goodman/id1484296650" target="_blank">Bergdorf Goodman App<a> <br/>
-<a href="[https://apps.apple.com/us/app/bergdorf-goodman/id1484296650](https://apps.apple.com/us/app/ninjaone-mobile/id1416138607)" target="_blank">NinjaOne App<a> <br/>
