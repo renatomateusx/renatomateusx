@@ -16,7 +16,7 @@ Do you wanna talk with me directly?
 ### Projects I have worked on: <br/>
 
 <a href="https://apps.apple.com/us/app/ninjaone-mobile/id1416138607" target="_blank">NinjaOne Mobile</a> <br/>
-<a href="https://github.com/hps/heartland-ios" target="_blank">Heartland iOS SDK</a> <br/>
+<a href="https://github.com/hps/heartland-java" target="_blank">Heartland Java SDK</a> <br/>
 <a href="https://apps.apple.com/br/app/heartland-mobile-point-of-sale/id1455676492" target="_blank">Heartland Mobile Point of Sale</a> <br/>
 <a href="https://apps.apple.com/br/app/mobile-pay-by-global-payments/id1029208223" target="_blank">Mobile Pay by Global Payments</a> <br/>
 <a href="https://apps.apple.com/us/app/zytara-digital-banking/id1552031706" target="_blank">Zytara Banking App</a> <br/>
@@ -54,7 +54,7 @@ Quer falar comigo diretamente?
 ### Projetos em que trabalhei: <br/>
 
 <a href="https://apps.apple.com/us/app/ninjaone-mobile/id1416138607" target="_blank">NinjaOne Mobile</a> <br/>
-<a href="https://github.com/hps/heartland-ios" target="_blank">Heartland iOS SDK</a> <br/>
+<a href="https://github.com/hps/heartland-java" target="_blank">Heartland Java SDK</a> <br/>
 <a href="https://apps.apple.com/br/app/heartland-mobile-point-of-sale/id1455676492" target="_blank">Heartland Mobile Point of Sale</a> <br/>
 <a href="https://apps.apple.com/br/app/mobile-pay-by-global-payments/id1029208223" target="_blank">Mobile Pay by Global Payments</a> <br/>
 <a href="https://apps.apple.com/us/app/zytara-digital-banking/id1552031706" target="_blank">Zytara Banking App</a> <br/>
