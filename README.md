@@ -2,9 +2,9 @@
 
 [EN] <br/>
 I am 36 years old. <br/>
-I work with Mobile Development - iOS Developer- Objective-c | Swift. <br/>
-For BackEnd I work with Rust, and secondary Java/Kotlin and spring boot, NodeJS and .NETCore <br/>
-For FrondEnd i work with React, ReactNative and anything which has javascript/typescript<br/>
+I work with Backend Development. <br/>
+For BackEnd I work with Java, Kotlin, Python, and NodeJS. <br/>
+For FrondEnd I work with React, Angualar, VueJS and anything which has javascript/typescript<br/>
 Enthusiast of TypeScript and functional programming. <br/>
 I want to collaborate with world to helping create new technology. <br/>
 I NEED to help to change the World! <br/>
@@ -40,9 +40,9 @@ Do you wanna talk with me directly?
 
 [PT-BR] <br/>
 Eu tenho 36 anos. <br/>
-Trabalho com Desenvolvimento Móvel - iOS Developer- Objective-c | Swift. <br/>
-Para back-end, trabalho com Rust, Java / Kotlin e spring boot, NodeJS and .NETCore <br/>
-Para front-end eu trabalho com react, react native e qualquer coisa que tenha javascript/typescript<br/>
+Trabalho com Desenvolvimento BackEnd. <br/>
+Para back-end, trabalho com Java, Kotlin, Python e NodeJS. <br/>
+Para front-end eu trabalho com React, Angualar, VueJS e qualquer coisa que tenha javascript/typescript<br/>
 Entusiasta de TypeScript e Programação funcional. <br/>
 Quero colaborar com o mundo ajudando a criar novas tecnologias. <br/>
 Eu PRECISO ajudar a mudar o Mundo! <br/>
