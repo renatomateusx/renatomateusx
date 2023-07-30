@@ -4,7 +4,8 @@
 I'm iOS Software Engineer. <br/>
 I'm on this field since 2005, coming from backend to iOS development.
 I believe my backend skills can help the entire team to create a better approach for mobile development since I have experience on this side of development as well.
-I also helped the companies to use the best approach to deliver quality apps, by implementing better practices, using unit tests, reusability, CI/CD, etc
+I also helped the companies to use the best approach to deliver quality apps, by implementing better practices, using unit tests, reusability, CI/CD, etc.
+I've been helping people to become better developers, provoking them to better rethink the concepts of reusability and design patterns. I've also been mentoring some teammates over the years, always keeping in touch even after I'm no longer part of the same team.
 
 Do you wanna talk with me directly?
 <a href= "https://api.whatsapp.com/send?phone=5571991306561&text=Hi%20Renato.%20Dude!%20I%20was%20seeing%20your%20resume%20and%20i%20was%20love%20it!%20Can%20we%20talk%3F" target="_blank">Click HERE</a>
@@ -38,7 +39,8 @@ Do you wanna talk with me directly?
 Sou engenheiro de software iOS. <br/>
 Estou nessa área desde 2005, indo de backend para desenvolvimento iOS.
 Acredito que minhas habilidades de back-end podem ajudar toda a equipe a criar uma abordagem melhor para o desenvolvimento móvel, pois também tenho experiência nesse lado do desenvolvimento.
-Também ajudei as empresas a usar a melhor abordagem para entregar aplicativos de qualidade, implementando melhores práticas, usando testes de unidade, reusabilidade, CI/CD, etc
+Também ajudei as empresas a usar a melhor abordagem para entregar aplicativos de qualidade, implementando melhores práticas, usando testes de unidade, reusabilidade, CI/CD, etc.
+Venho ajudando pessoas a se tornarem melhores desenvolvedores, provocando-os a repensar melhor os conceitos de reusabilidade e design patterns. Também venho mentorando alguns colegas de equipe ao longo dos anos, sempre mantendo contato mesmo após não mais fazer parte da mesma equipe. 
 
 Quer falar comigo diretamente?
 <a href="https://api.whatsapp.com/send?phone=5571991306561&text=E%20a%C3%AD%20Renato.%20Cara.%20Adorei%20seu%20curr%C3%ADculo!%20Podemos%20conversar%3F" target="_blank">Clica AQUI</a>
