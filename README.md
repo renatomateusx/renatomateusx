@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [EN] <br/>
-I am 36 years old. <br/>
 I'm iOS Software Engineer. <br/>
 I'm on this field since 2005, coming from backend to iOS development.
 I believe my backend skills can help the entire team to create a better approach for mobile development since I have experience on this side of development as well.
@@ -36,7 +35,6 @@ Do you wanna talk with me directly?
 ### E aí! 👋
 
 [PT-BR] <br/>
-Eu tenho 36 anos. <br/>
 Sou engenheiro de software iOS. <br/>
 Estou nessa área desde 2005, indo de backend para desenvolvimento iOS.
 Acredito que minhas habilidades de back-end podem ajudar toda a equipe a criar uma abordagem melhor para o desenvolvimento móvel, pois também tenho experiência nesse lado do desenvolvimento.
