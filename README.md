@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 [EN] <br/>
-I'm iOS Software Engineer. <br/>
-I'm on this field since 2005, coming from backend to iOS development.
-I believe my backend skills can help the entire team to create a better approach for mobile development since I have experience on this side of development as well.
-I'm also getting the Machine Learning Specialization.
-I also helped the companies to use the best approach to deliver quality apps, by implementing better practices, using unit tests, reusability, CI/CD, etc.
-I've been helping people to become better developers, provoking them to better rethink the concepts of reusability and design patterns. I've also been mentoring some teammates over the years, always keeping in touch even after I'm no longer part of the same team.
+I'm a Cloud Solutions Architect with a strong background in Software Engineering. Since 2005, I've been combining backend development with mobile development and, more recently, with cloud solutions. My deep experience in backend, along with my cloud expertise, enables me to guide teams in adopting the best practices for mobile and cloud integration. This includes implementing scalable architectures, optimizing CI/CD pipelines, and ensuring robust cloud infrastructure.
+
+I’m currently specializing in Machine Learning, which complements my cloud skills by enabling data-driven decision-making and advanced analytics in cloud environments. Throughout my career, I've been instrumental in helping companies deliver high-quality apps and cloud solutions by mentoring teams, promoting the use of design patterns, and encouraging reusability. My consulting work has focused on empowering organizations to leverage cloud technologies effectively, ensuring they achieve their business goals through strategic cloud adoption.
 
 Do you wanna talk with me directly?
 <a href= "https://api.whatsapp.com/send?phone=5571991306561&text=Hi%20Renato.%20Dude!%20I%20was%20seeing%20your%20resume%20and%20i%20was%20love%20it!%20Can%20we%20talk%3F" target="_blank">Click HERE</a>
@@ -37,12 +34,9 @@ Do you wanna talk with me directly?
 ### E aí! 👋
 
 [PT-BR] <br/>
-Sou engenheiro de software iOS. <br/>
-Estou nessa área desde 2005, indo de backend para desenvolvimento iOS.
-Acredito que minhas habilidades de back-end podem ajudar toda a equipe a criar uma abordagem melhor para o desenvolvimento móvel, pois também tenho experiência nesse lado do desenvolvimento.
-Também estou obtendo minha especialização em Machine Learning.
-Também ajudei as empresas a usar a melhor abordagem para entregar aplicativos de qualidade, implementando melhores práticas, usando testes de unidade, reusabilidade, CI/CD, etc.
-Venho ajudando pessoas a se tornarem melhores desenvolvedores, provocando-os a repensar melhor os conceitos de reusabilidade e design patterns. Também venho mentorando alguns colegas de equipe ao longo dos anos, sempre mantendo contato mesmo após não mais fazer parte da mesma equipe. 
+Sou um Arquiteto de Soluções em Nuvem com uma sólida experiência em Engenharia de Software. Desde 2005, venho combinando o desenvolvimento backend com o desenvolvimento mobile e, mais recentemente, com soluções em nuvem. Minha profunda experiência em backend, junto com minha especialização em nuvem, me permite guiar equipes na adoção das melhores práticas para a integração entre mobile e cloud. Isso inclui a implementação de arquiteturas escaláveis, otimização de pipelines CI/CD e garantia de uma infraestrutura em nuvem robusta.
+
+Atualmente, estou me especializando em Machine Learning, o que complementa minhas habilidades em nuvem, permitindo decisões baseadas em dados e análises avançadas em ambientes cloud. Ao longo da minha carreira, fui fundamental para ajudar empresas a entregar aplicativos e soluções em nuvem de alta qualidade, mentorando equipes, promovendo o uso de padrões de design e incentivando a reutilização de código. Meu trabalho como consultor tem se concentrado em capacitar as organizações a aproveitar efetivamente as tecnologias de nuvem, garantindo que alcancem seus objetivos de negócios por meio de uma adoção estratégica da nuvem.
 
 Quer falar comigo diretamente?
 <a href="https://api.whatsapp.com/send?phone=5571991306561&text=E%20a%C3%AD%20Renato.%20Cara.%20Adorei%20seu%20curr%C3%ADculo!%20Podemos%20conversar%3F" target="_blank">Clica AQUI</a>
