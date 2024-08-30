@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [EN] <br/>
-I'm a Cloud Solutions Architect with a strong background in Software Engineering. Since 2005, I've been combining backend development with mobile development and, more recently, with cloud solutions. My deep experience in backend, along with my cloud expertise, enables me to guide teams in adopting the best practices for mobile and cloud integration. This includes implementing scalable architectures, optimizing CI/CD pipelines, and ensuring robust cloud infrastructure.
+I'm a iOS Engineer with a strong background in Software Engineering. Since 2005, I've been combining backend development with mobile development and, more recently, with cloud solutions. My deep experience in backend, along with my cloud expertise, enables me to guide teams in adopting the best practices for mobile and cloud integration. This includes implementing scalable architectures, optimizing CI/CD pipelines, and ensuring robust cloud infrastructure.
 
 Having completed my specialization in Machine Learning, I’m now focusing on furthering my expertise in cloud technologies. Throughout my career, I've been instrumental in helping companies deliver high-quality apps and cloud solutions by mentoring teams, promoting the use of design patterns, and encouraging reusability. My consulting work has focused on empowering organizations to leverage cloud technologies effectively, ensuring they achieve their business goals through strategic cloud adoption.
 
@@ -34,7 +34,7 @@ Do you wanna talk with me directly?
 ### E aí! 👋
 
 [PT-BR] <br/>
-Sou um Arquiteto de Soluções em Nuvem com uma sólida experiência em Engenharia de Software. Desde 2005, venho combinando o desenvolvimento backend com o desenvolvimento mobile e, mais recentemente, com soluções em nuvem. Minha profunda experiência em backend, junto com minha especialização em nuvem, me permite guiar equipes na adoção das melhores práticas para a integração entre mobile e cloud. Isso inclui a implementação de arquiteturas escaláveis, otimização de pipelines CI/CD e garantia de uma infraestrutura em nuvem robusta.
+Sou um Engenheiro iOS com uma sólida experiência em Engenharia de Software. Desde 2005, venho combinando o desenvolvimento backend com o desenvolvimento mobile e, mais recentemente, com soluções em nuvem. Minha profunda experiência em backend, junto com minha especialização em nuvem, me permite guiar equipes na adoção das melhores práticas para a integração entre mobile e cloud. Isso inclui a implementação de arquiteturas escaláveis, otimização de pipelines CI/CD e garantia de uma infraestrutura em nuvem robusta.
 
 Tendo completado minha especialização em Machine Learning, agora estou focado em aprofundar minha expertise em tecnologias de nuvem. Ao longo da minha carreira, fui fundamental para ajudar empresas a entregar aplicativos e soluções em nuvem de alta qualidade, mentorando equipes, promovendo o uso de padrões de design e incentivando a reutilização de código. Meu trabalho como consultor tem se concentrado em capacitar as organizações a aproveitar efetivamente as tecnologias de nuvem, garantindo que alcancem seus objetivos de negócios por meio de uma adoção estratégica da nuvem.
 
