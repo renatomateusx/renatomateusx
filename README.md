@@ -10,6 +10,7 @@ Do you wanna talk with me directly?
 
 ### Projects I have worked on: <br/>
 
+<a href="https://www.clarks.com/en-us" target="_blank">Clarks.com</a> <br/>
 <a href="https://artlogic.net/" target="_blank">ArtLogic</a> <br/>
 <a href="https://99app.com/99pay/" target="_blank">99 Pay</a> <br/>
 <a href="https://apps.apple.com/us/app/ninjaone-mobile/id1416138607" target="_blank">NinjaOne Mobile</a> <br/>
@@ -45,6 +46,7 @@ Quer falar comigo diretamente?
   
 ### Projetos em que trabalhei: <br/>
 
+<a href="https://www.clarks.com/en-us" target="_blank">Clarks.com</a> <br/>
 <a href="https://artlogic.net/" target="_blank">ArtLogic</a> <br/>
 <a href="https://99app.com/99pay/" target="_blank">99 Pay</a> <br/>
 <a href="https://apps.apple.com/us/app/ninjaone-mobile/id1416138607" target="_blank">NinjaOne Mobile</a> <br/>
