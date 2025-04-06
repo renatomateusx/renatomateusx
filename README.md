@@ -10,6 +10,8 @@ Do you wanna talk with me directly?
 
 ### Projects I have worked on: <br/>
 
+<a href="https://artlogic.net/" target="_blank">ArtLogic</a> <br/>
+<a href="https://99app.com/99pay/" target="_blank">99 Pay</a> <br/>
 <a href="https://apps.apple.com/us/app/ninjaone-mobile/id1416138607" target="_blank">NinjaOne Mobile</a> <br/>
 <a href="https://github.com/hps/heartland-ios" target="_blank">Heartland iOS SDK</a> <br/>
 <a href="https://apps.apple.com/br/app/heartland-mobile-point-of-sale/id1455676492" target="_blank">Heartland Mobile Point of Sale</a> <br/>
@@ -43,6 +45,8 @@ Quer falar comigo diretamente?
   
 ### Projetos em que trabalhei: <br/>
 
+<a href="https://artlogic.net/" target="_blank">ArtLogic</a> <br/>
+<a href="https://99app.com/99pay/" target="_blank">99 Pay</a> <br/>
 <a href="https://apps.apple.com/us/app/ninjaone-mobile/id1416138607" target="_blank">NinjaOne Mobile</a> <br/>
 <a href="https://github.com/hps/heartland-ios" target="_blank">Heartland iOS SDK</a> <br/>
 <a href="https://apps.apple.com/br/app/heartland-mobile-point-of-sale/id1455676492" target="_blank">Heartland Mobile Point of Sale</a> <br/>
