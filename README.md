@@ -12,6 +12,7 @@
 
 <h3>Projects I have worked on:</h3>
 
+<a href="https://www.coca-cola.com" target="_blank">Coca Cola</a> <br/>
 <a href="https://www.clarks.com/en-us" target="_blank">Clarks.com</a> <br/>
 <a href="https://artlogic.net/" target="_blank">ArtLogic</a> <br/>
 <a href="https://99app.com/99pay/" target="_blank">99 Pay</a> <br/>
@@ -48,6 +49,8 @@
 
 <h3>Projetos em que trabalhei:</h3>
 
+
+<a href="https://www.coca-cola.com" target="_blank">Coca Cola</a> <br/>
 <a href="https://www.clarks.com/en-us" target="_blank">Clarks.com</a> <br/>
 <a href="https://artlogic.net/" target="_blank">ArtLogic</a> <br/>
 <a href="https://99app.com/99pay/" target="_blank">99 Pay</a> <br/>
