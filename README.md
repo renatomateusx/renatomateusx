@@ -38,9 +38,9 @@
 <h3>E aí! 👋</h3>
 
 <p>[PT-BR]</p>
-<p>Sou um **Especialista em Cloud e IA** com uma sólida formação em **Engenharia de Software**, combinando **desenvolvimento backend e mobile** desde 2005. Minha vasta experiência nessas áreas, junto com uma recente **especialização em Machine Learning**, me permite guiar equipes na adoção das **melhores práticas para integração mobile e cloud**. Isso inclui a implementação de **arquiteturas escaláveis**, otimização de **pipelines CI/CD** e garantia de uma **infraestrutura em nuvem robusta**.</p>
+<p>Sou um <strong>Especialista em Cloud e IA</strong> com uma sólida formação em <strong>Engenharia de Software</strong>, combinando <strong>desenvolvimento backend e mobile</strong> desde 2005. Minha vasta experiência nessas áreas, junto com uma recente <strong>especialização em Machine Learning</strong>, me permite guiar equipes na adoção das <strong>melhores práticas para integração mobile e cloud</strong>. Isso inclui a implementação de <strong>arquiteturas escaláveis</strong>, otimização de <strong>pipelines CI/CD</strong> e garantia de uma <strong>infraestrutura em nuvem robusta</strong>.</p>
 
-<p>Sou especialista em ajudar empresas a entregar **aplicativos e soluções em nuvem de alta qualidade**, através da **mentoria de equipes**, promoção de **padrões de design** e incentivo à **reutilização de código**. Meu trabalho de consultoria foca em **capacitar organizações a alavancar tecnologias de nuvem estrategicamente** para atingir seus objetivos de negócio.</p>
+<p>Sou especialista em ajudar empresas a entregar <strong>aplicativos e soluções em nuvem de alta qualidade</strong>, através da <strong>mentoria de equipes</strong>, promoção de <strong>padrões de design</strong> e incentivo à <strong>reutilização de código</strong>. Meu trabalho de consultoria foca em <strong>capacitar organizações a alavancar tecnologias de nuvem estrategicamente</strong> para atingir seus objetivos de negócio.</p>
 
 <p>Quer falar comigo diretamente?</p>
 <a href="https://api.whatsapp.com/send?phone=5571991306561&text=E%20a%C3%AD%20Renato.%20Cara.%20Adorei%20seu%20curr%C3%ADculo!%20Podemos%20conversar%3F" target="_blank">Clica AQUI</a>
