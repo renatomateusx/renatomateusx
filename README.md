@@ -1,9 +1,9 @@
 <h3>Hi there 👋</h3>
 
 <p>[EN]</p>
-<p>I'm a <strong>Cloud & AI Specialist</strong>strong> with a robust **Software Engineering** background, combining **backend and mobile development** since 2005. My deep expertise in these areas, coupled with a recent **specialization in Machine Learning**, allows me to guide teams in adopting **best practices for mobile and cloud integration**. This includes implementing **scalable architectures**, optimizing **CI/CD pipelines**, and ensuring **robust cloud infrastructure**.</p>
+<p>I'm a <strong>Cloud & AI Specialist</strong> with a robust **Software Engineering** background, combining <strong>backend and mobile development</strong> since 2005. My deep expertise in these areas, coupled with a recent <strong>specialization in Machine Learning</strong>, allows me to guide teams in adopting <strong>best practices for mobile and cloud integration</strong>. This includes implementing <strong>scalable architectures</strong>, optimizing <strong>CI/CD pipelines</strong>strong>, and ensuring <strong>robust cloud infrastructure</strong>.</p>
 
-<p>I excel at helping companies deliver **high-quality apps and cloud solutions** by **mentoring teams**, promoting **design patterns**, and encouraging **code reusability**. My consulting work focuses on **empowering organizations to strategically leverage cloud technologies** to achieve their business goals.</p>
+<p>I excel at helping companies deliver <strong>high-quality apps and cloud solutions</strong> by <strong>mentoring teams</strong>, promoting <strong>design patterns</strong>, and encouraging <strong>code reusability</strong>. My consulting work focuses on <strong>empowering organizations to strategically leverage cloud technologies</strong> to achieve their business goals.</p>
 
 <p>Ready to connect?</p>
 <a href= "https://api.whatsapp.com/send?phone=5571991306561&text=Hi%20Renato.%20Dude!%20I%20was%20seeing%20your%20resume%20and%20i%20was%20love%20it!%20Can%20we%20talk%3F" target="_blank">Click HERE</a>
