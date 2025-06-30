@@ -1,7 +1,7 @@
 <h3>Hi there 👋</h3>
 
 <p>[EN]</p>
-<p>I'm a *Cloud & AI Specialist* with a robust **Software Engineering** background, combining **backend and mobile development** since 2005. My deep expertise in these areas, coupled with a recent **specialization in Machine Learning**, allows me to guide teams in adopting **best practices for mobile and cloud integration**. This includes implementing **scalable architectures**, optimizing **CI/CD pipelines**, and ensuring **robust cloud infrastructure**.</p>
+<p>I'm a <strong>Cloud & AI Specialist</strong>strong> with a robust **Software Engineering** background, combining **backend and mobile development** since 2005. My deep expertise in these areas, coupled with a recent **specialization in Machine Learning**, allows me to guide teams in adopting **best practices for mobile and cloud integration**. This includes implementing **scalable architectures**, optimizing **CI/CD pipelines**, and ensuring **robust cloud infrastructure**.</p>
 
 <p>I excel at helping companies deliver **high-quality apps and cloud solutions** by **mentoring teams**, promoting **design patterns**, and encouraging **code reusability**. My consulting work focuses on **empowering organizations to strategically leverage cloud technologies** to achieve their business goals.</p>
 
